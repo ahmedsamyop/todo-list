@@ -1,2 +1,2 @@
 # todo-list
-simple todo list app built in HTML, CSS and JavaScript
+Simple todo list created by HTML , CSS and Javascript
